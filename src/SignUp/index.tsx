@@ -1,3 +1,6 @@
+// Name         : Siregar, Hizkia Gaynell Pascal
+// Description  : Exercise 8 Sign Up
+
 import {StyleSheet, View, TouchableOpacity, Image} from 'react-native';
 import React from 'react';
 import Header from '../../components/molecules/Header';
